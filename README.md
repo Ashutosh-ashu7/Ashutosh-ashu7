@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashutosh-ashu7
-- 👀 I’m interested in ...java
+- 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
